@@ -1,4 +1,4 @@
-# CIE6032-ResAttUNet-model
+# ResAttUNet-model
 
 Our models will be released as follows:
 
